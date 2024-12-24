@@ -1,1 +1,3 @@
-# asaas
+plotly
+pandas
+streamlit
